@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "All Mine",
+  "base_artist": "Kanye West",
+  "createdAt": "2026-03-20T16:40:42.660274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Mine",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_All_Mine_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Mine (Inst.)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_All_Mine_(Inst.)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Say It's All Mine",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/03_Say_It's_All_Mine_Moby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mine All Mine",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/04_Mine_All_Mine_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Mine",
+      "artist": "Portishead feat. Nick Ingman & Orchestra",
+      "has_synced": true,
+      "path": "select/05_All_Mine_Portishead_feat._Nick_Ingman_&_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Mine",
+      "artist": "Portishead",
+      "has_synced": true,
+      "path": "select/06_All_Mine_Portishead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Mine",
+      "artist": "Portishead",
+      "has_synced": true,
+      "path": "select/07_All_Mine_Portishead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pleasure Is All Mine",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/08_Pleasure_Is_All_Mine_Björk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pleasure Is All Mine",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/09_Pleasure_Is_All_Mine_Björk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mine All Mine",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/10_Mine_All_Mine_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Mine [Live In The Hammersmith Odean 5/82]",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/11_All_Mine_[Live_In_The_Hammersmith_Odean_5_82]_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Mine (Live At The Hammersmith Odeon 5.82 - Previously On 'Curiosity' Cassette)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/12_All_Mine_(Live_At_The_Hammersmith_Odeon_5.82_-_Previously_On_'Curiosity'_Cassett_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mine All Mine",
+      "artist": "Diamond Head",
+      "has_synced": true,
+      "path": "select/13_Mine_All_Mine_Diamond_Head.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mine All Mine",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/14_Mine_All_Mine_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Life All Mine",
+      "artist": "The Gathering",
+      "has_synced": true,
+      "path": "select/15_A_Life_All_Mine_The_Gathering.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All Mine",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/pl_01_All_Mine_Kanye_West.txt"
+    }
+  ]
+}
